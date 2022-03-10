@@ -9,6 +9,7 @@
   - Valorant<br>
   - Roblox<br>
   - Exploiting just a little<br>
+  
 **Dislikes:**
   - People who don't shower<br>
   - People who don't like Joji<br>
@@ -17,3 +18,4 @@
 
 
 ### Uh that's pretty much it, cya!
+![Best girl](https://images3.alphacoders.com/120/thumb-350-1203462.jpg)
