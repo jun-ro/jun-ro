@@ -2,21 +2,10 @@
 ### Hey! Hru? Anyways I'm Jun, A Junior Developer mostly working on JavaScript and Roblox Games
 *i'm also a huge weeb :3*
 
-# Likes/Dislikes
-**Likes:**<br>
-  - People who play valorant<br>
-  - People who don't play Genshin Impact<br>
-  - Valorant<br>
-  - Roblox<br>
-  - Exploiting just a little<br>
-  
-**Dislikes:**
-  - People who don't shower<br>
-  - People who don't like Joji<br>
-  - School<br>
-  - Learning<br>
+[![Jun's Stats](https://github-readme-stats.vercel.app/api?username=jun-ro&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun-r&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Uh that's pretty much it, cya!
-![Best girl](https://images3.alphacoders.com/120/thumb-350-1203462.jpg)<br>
-*marin best girl btw*
+### Projects I'm proud of
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jun-r&repo=tf2bd-lozarthsrules&theme=dark&show_icons=true)](https://github.com/Lozarth/tf2bd-lozarthsrules)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jun-r&repo=Disboard-Auto-Bump-Selfbot&theme=dark&show_icons=true)](https://github.com/Lozarth/Disboard-Auto-Bump-Selfbot)
