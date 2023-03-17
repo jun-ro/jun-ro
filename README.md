@@ -8,6 +8,6 @@
 
 ### Projects I'm proud of
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jun-ro&repo=MGPA&theme=dark&show_icons=true)](https://github.com/jun-ro/MGPA)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jun-ro&repo=Yukki-Client&theme=dark&show_icons=true)](https://github.com/jun-ro/Yukki-Client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jun-ro&repo=TikDown&theme=dark&show_icons=true)](https://github.com/jun-ro/TikDown)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jun-ro&repo=Rasputin&theme=dark&show_icons=true)](https://github.com/jun-ro/Rasputin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jun-ro&repo=Kitty&theme=dark&show_icons=true)](https://github.com/jun-ro/Kitty)
